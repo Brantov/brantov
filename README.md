@@ -68,7 +68,7 @@
 
 ### 💻 Codewars:
 
-![codewars]([https://www.codewars.com/users/FilimonovAlexey/badges/large](https://www.codewars.com/users/Brantov/badges/large))
+![codewars](https://www.codewars.com/users/Brantov/badges/large)
 
 ### ⚙️ GitHub статистика:
 
