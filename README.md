@@ -11,7 +11,7 @@
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-gera_brant-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gera_brant) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:georgiy.brantov@gmail.com)
+- :mailbox: Как связаться со мной:   [![Telegram Badge](https://img.shields.io/badge/-gera_brant-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gera_brant) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:georgiy.brantov@gmail.com)
 
 ---
 
